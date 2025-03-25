@@ -21,7 +21,7 @@ The first step towards generating useful insights from the data was the data pre
 - 2: One of oulier(UK) was deleted in the country column, as the country already has high demand and I’ve been told you’re more focused on the countries where demand can be increased.
 
 
- ### 2. Exploratory Data Analysis on in organization
+ ### 2. Exploratory Data Analysis on sales in organization
 After the data cleaning process, exploratory analysis on the dataset is performed and the following insights are obtained :
 
 
