@@ -19,9 +19,9 @@
 The first step towards generating useful insights from the data was the data prepartion, quality assessment and data cleaning step. 
 - 1: First off, I  assure you that I’ve provided the most up to date and error free analysis. After I loaded the data into my software, I scrubbed any records that have **negative quantities and unit price**, as these records needed to be removed in order to provide helpful analysis.
 - 2: One of oulier(UK) was deleted in the country column, as the country already has high demand and I’ve been told you’re more focused on the countries where demand can be increased.
+  
 
-
- ### 2. Exploratory Data Analysis on sales in organization
+ ### 2. Exploratory Data Analysis on **revenue** in organization
 After the data cleaning process, exploratory analysis on the dataset is performed and the following insights are obtained :
 
 
