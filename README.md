@@ -1,5 +1,7 @@
 # Data_visualization_of_TCS
 
+ - The **OBJECTIVE** of this project is to help an organization to improve revenue and growth in some contries, seasons or in specific areas etc.
+
 ## Goal of the project
 - Data	Visualisation to	Empowering	Business with	Effective	Insights by answering below given questions.
   - 1: The CEO has requested a trend of the revenue to see if there is any
@@ -9,7 +11,6 @@
   - 3: The map chart to show the regions that have generated the most revenue compared with
  the regions that have not.
 
- - The **OBJECTIVE** of this project is to help an organization to improve revenue and growth in some contries, seasons or in specific areasetc.
 
 
 
@@ -29,6 +30,11 @@ After the data cleaning process, exploratory analysis on the dataset is performe
     As for the first question, the CEO has requested a trend of the revenue to see if there is any
  seasonality in the store sales.This analysis shows that there are some months of the year where
  exceptional growth is witnessed.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c40295d-1685-4d20-b31d-29717cd052fe" alt="Attrition by Education Field" width="800">
+</p>
+
 - 2: The data shows that the revenue in the first 8 months is fairly constant as the average revenue generated for these 8 months is around $685k. The increase
  in revenue starts in the month of September, where the revenue increases by 40% over the
  previous month. This trend continues till the month of November where it reached 1.5 million
@@ -37,8 +43,8 @@ After the data cleaning process, exploratory analysis on the dataset is performe
  store sales are impacted by the seasonality which usually occurs in the last 4 months of the
  year
 
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c40295d-1685-4d20-b31d-29717cd052fe" alt="Attrition by Education Field" width="800">
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/8d7247a4-d3a2-4b5e-9187-ce7c8c9d022c" alt="Attrition by Education Field" width="800">
 </p>
 
 - <b> **Top 10 countries** </b> :
@@ -51,8 +57,8 @@ After the data cleaning process, exploratory analysis on the dataset is performe
  on to ensure that measures are taken to capture these markets even more.
 
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d7247a4-d3a2-4b5e-9187-ce7c8c9d022c" alt="Attrition by Education Field" width="800">
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/bed9cbbe-2b56-4e1b-acf2-b3fbe39d1297" alt="Attrition by Education Field" width="800">
 </p>
 
 - <b> **Top 10 customer** by purchasing </b> :
@@ -67,9 +73,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bed9cbbe-2b56-4e1b-acf2-b3fbe39d1297" alt="Attrition by Education Field" width="800">
-</p>
+![Screenshot 2024-10-19 114629](https://github.com/user-attachments/assets/137fa5ac-4287-4397-a4f6-f686e1220df1)
 
 
 - <b> **Geographical Map** by revenue </b> :
@@ -86,8 +90,8 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 
 
 
-![Screenshot 2024-10-19 114629](https://github.com/user-attachments/assets/137fa5ac-4287-4397-a4f6-f686e1220df1)
 
-Thanks so much for your time. If you have any questions about the analysis or would like to see
+
+Thanks  for your time. If you have any questions about the analysis or would like to see
  anything additional after you’ve had time to digest this information, I’d be happy to develop that
  for you.
